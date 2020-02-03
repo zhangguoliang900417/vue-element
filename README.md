@@ -108,6 +108,6 @@ npm run lint -- --fix
 
 ## 在线演示
 
-[在线 Demo](https://panjiachen.github.io/vue-element-admin)
+[在线 Demo](http://vue.ruoyi.vip/login?redirect=%2Fsystem%2Fmenu)
 
 
